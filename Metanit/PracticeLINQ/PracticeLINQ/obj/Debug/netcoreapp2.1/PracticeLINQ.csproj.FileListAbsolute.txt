@@ -1,0 +1,11 @@
+D:\EDU_C#\Metanit\PracticeLINQ\PracticeLINQ\bin\Debug\netcoreapp2.1\PracticeLINQ.deps.json
+D:\EDU_C#\Metanit\PracticeLINQ\PracticeLINQ\bin\Debug\netcoreapp2.1\PracticeLINQ.runtimeconfig.json
+D:\EDU_C#\Metanit\PracticeLINQ\PracticeLINQ\bin\Debug\netcoreapp2.1\PracticeLINQ.runtimeconfig.dev.json
+D:\EDU_C#\Metanit\PracticeLINQ\PracticeLINQ\bin\Debug\netcoreapp2.1\PracticeLINQ.dll
+D:\EDU_C#\Metanit\PracticeLINQ\PracticeLINQ\bin\Debug\netcoreapp2.1\PracticeLINQ.pdb
+D:\EDU_C#\Metanit\PracticeLINQ\PracticeLINQ\obj\Debug\netcoreapp2.1\PracticeLINQ.csprojAssemblyReference.cache
+D:\EDU_C#\Metanit\PracticeLINQ\PracticeLINQ\obj\Debug\netcoreapp2.1\PracticeLINQ.csproj.CoreCompileInputs.cache
+D:\EDU_C#\Metanit\PracticeLINQ\PracticeLINQ\obj\Debug\netcoreapp2.1\PracticeLINQ.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit\PracticeLINQ\PracticeLINQ\obj\Debug\netcoreapp2.1\PracticeLINQ.AssemblyInfo.cs
+D:\EDU_C#\Metanit\PracticeLINQ\PracticeLINQ\obj\Debug\netcoreapp2.1\PracticeLINQ.dll
+D:\EDU_C#\Metanit\PracticeLINQ\PracticeLINQ\obj\Debug\netcoreapp2.1\PracticeLINQ.pdb

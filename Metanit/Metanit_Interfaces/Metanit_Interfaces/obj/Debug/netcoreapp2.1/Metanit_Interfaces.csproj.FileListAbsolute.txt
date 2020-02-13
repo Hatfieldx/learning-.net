@@ -1,0 +1,11 @@
+D:\EDU_C#\Metanit_Interfaces\Metanit_Interfaces\bin\Debug\netcoreapp2.1\Metanit_Interfaces.deps.json
+D:\EDU_C#\Metanit_Interfaces\Metanit_Interfaces\bin\Debug\netcoreapp2.1\Metanit_Interfaces.runtimeconfig.json
+D:\EDU_C#\Metanit_Interfaces\Metanit_Interfaces\bin\Debug\netcoreapp2.1\Metanit_Interfaces.runtimeconfig.dev.json
+D:\EDU_C#\Metanit_Interfaces\Metanit_Interfaces\bin\Debug\netcoreapp2.1\Metanit_Interfaces.dll
+D:\EDU_C#\Metanit_Interfaces\Metanit_Interfaces\bin\Debug\netcoreapp2.1\Metanit_Interfaces.pdb
+D:\EDU_C#\Metanit_Interfaces\Metanit_Interfaces\obj\Debug\netcoreapp2.1\Metanit_Interfaces.csprojAssemblyReference.cache
+D:\EDU_C#\Metanit_Interfaces\Metanit_Interfaces\obj\Debug\netcoreapp2.1\Metanit_Interfaces.csproj.CoreCompileInputs.cache
+D:\EDU_C#\Metanit_Interfaces\Metanit_Interfaces\obj\Debug\netcoreapp2.1\Metanit_Interfaces.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit_Interfaces\Metanit_Interfaces\obj\Debug\netcoreapp2.1\Metanit_Interfaces.AssemblyInfo.cs
+D:\EDU_C#\Metanit_Interfaces\Metanit_Interfaces\obj\Debug\netcoreapp2.1\Metanit_Interfaces.dll
+D:\EDU_C#\Metanit_Interfaces\Metanit_Interfaces\obj\Debug\netcoreapp2.1\Metanit_Interfaces.pdb

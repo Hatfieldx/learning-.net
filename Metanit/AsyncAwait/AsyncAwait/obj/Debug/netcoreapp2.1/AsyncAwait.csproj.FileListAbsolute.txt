@@ -1,0 +1,10 @@
+D:\EDU_C#\Metanit\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.deps.json
+D:\EDU_C#\Metanit\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.runtimeconfig.json
+D:\EDU_C#\Metanit\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.runtimeconfig.dev.json
+D:\EDU_C#\Metanit\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.dll
+D:\EDU_C#\Metanit\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.pdb
+D:\EDU_C#\Metanit\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\EDU_C#\Metanit\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.AssemblyInfo.cs
+D:\EDU_C#\Metanit\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.dll
+D:\EDU_C#\Metanit\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.pdb

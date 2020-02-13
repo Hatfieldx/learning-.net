@@ -1,0 +1,11 @@
+D:\EDU_C#\Metanit_Delegate\Metanit_Delegate\bin\Debug\netcoreapp2.1\Metanit_Delegate.deps.json
+D:\EDU_C#\Metanit_Delegate\Metanit_Delegate\bin\Debug\netcoreapp2.1\Metanit_Delegate.runtimeconfig.json
+D:\EDU_C#\Metanit_Delegate\Metanit_Delegate\bin\Debug\netcoreapp2.1\Metanit_Delegate.runtimeconfig.dev.json
+D:\EDU_C#\Metanit_Delegate\Metanit_Delegate\bin\Debug\netcoreapp2.1\Metanit_Delegate.dll
+D:\EDU_C#\Metanit_Delegate\Metanit_Delegate\bin\Debug\netcoreapp2.1\Metanit_Delegate.pdb
+D:\EDU_C#\Metanit_Delegate\Metanit_Delegate\obj\Debug\netcoreapp2.1\Metanit_Delegate.csprojAssemblyReference.cache
+D:\EDU_C#\Metanit_Delegate\Metanit_Delegate\obj\Debug\netcoreapp2.1\Metanit_Delegate.csproj.CoreCompileInputs.cache
+D:\EDU_C#\Metanit_Delegate\Metanit_Delegate\obj\Debug\netcoreapp2.1\Metanit_Delegate.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit_Delegate\Metanit_Delegate\obj\Debug\netcoreapp2.1\Metanit_Delegate.AssemblyInfo.cs
+D:\EDU_C#\Metanit_Delegate\Metanit_Delegate\obj\Debug\netcoreapp2.1\Metanit_Delegate.dll
+D:\EDU_C#\Metanit_Delegate\Metanit_Delegate\obj\Debug\netcoreapp2.1\Metanit_Delegate.pdb

@@ -1,0 +1,17 @@
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\obj\Debug\Wpf_Parallelism.csprojAssemblyReference.cache
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\obj\Debug\MainWindow.g.cs
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\obj\Debug\App.g.cs
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\obj\Debug\Wpf_Parallelism_MarkupCompile.cache
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\obj\Debug\Wpf_Parallelism_MarkupCompile.lref
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\bin\Debug\Wpf_Parallelism.exe.config
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\bin\Debug\Wpf_Parallelism.exe
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\bin\Debug\Wpf_Parallelism.pdb
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\bin\Debug\System.Drawing.Common.dll
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\obj\Debug\MainWindow.baml
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\obj\Debug\Wpf_Parallelism.g.resources
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\obj\Debug\Wpf_Parallelism.Properties.Resources.resources
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\obj\Debug\Wpf_Parallelism.csproj.GenerateResource.cache
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\obj\Debug\Wpf_Parallelism.csproj.CoreCompileInputs.cache
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\obj\Debug\Wpf_Parallelism.csproj.CopyComplete
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\obj\Debug\Wpf_Parallelism.exe
+D:\EDU_C#\Troelsen\Wpf_Parallelism\Wpf_Parallelism\obj\Debug\Wpf_Parallelism.pdb

@@ -1,0 +1,11 @@
+D:\EDU_C#\Metanit\IO_Edu\IO_Edu\bin\Debug\netcoreapp2.1\IO_Edu.deps.json
+D:\EDU_C#\Metanit\IO_Edu\IO_Edu\bin\Debug\netcoreapp2.1\IO_Edu.runtimeconfig.json
+D:\EDU_C#\Metanit\IO_Edu\IO_Edu\bin\Debug\netcoreapp2.1\IO_Edu.runtimeconfig.dev.json
+D:\EDU_C#\Metanit\IO_Edu\IO_Edu\bin\Debug\netcoreapp2.1\IO_Edu.dll
+D:\EDU_C#\Metanit\IO_Edu\IO_Edu\bin\Debug\netcoreapp2.1\IO_Edu.pdb
+D:\EDU_C#\Metanit\IO_Edu\IO_Edu\obj\Debug\netcoreapp2.1\IO_Edu.csprojAssemblyReference.cache
+D:\EDU_C#\Metanit\IO_Edu\IO_Edu\obj\Debug\netcoreapp2.1\IO_Edu.csproj.CoreCompileInputs.cache
+D:\EDU_C#\Metanit\IO_Edu\IO_Edu\obj\Debug\netcoreapp2.1\IO_Edu.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit\IO_Edu\IO_Edu\obj\Debug\netcoreapp2.1\IO_Edu.AssemblyInfo.cs
+D:\EDU_C#\Metanit\IO_Edu\IO_Edu\obj\Debug\netcoreapp2.1\IO_Edu.dll
+D:\EDU_C#\Metanit\IO_Edu\IO_Edu\obj\Debug\netcoreapp2.1\IO_Edu.pdb

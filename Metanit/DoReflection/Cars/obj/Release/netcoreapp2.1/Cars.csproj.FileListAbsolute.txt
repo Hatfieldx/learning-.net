@@ -1,0 +1,8 @@
+D:\EDU_C#\Metanit\DoReflection\Cars\bin\Release\netcoreapp2.1\Cars.deps.json
+D:\EDU_C#\Metanit\DoReflection\Cars\bin\Release\netcoreapp2.1\Cars.dll
+D:\EDU_C#\Metanit\DoReflection\Cars\bin\Release\netcoreapp2.1\Cars.pdb
+D:\EDU_C#\Metanit\DoReflection\Cars\obj\Release\netcoreapp2.1\Cars.csproj.CoreCompileInputs.cache
+D:\EDU_C#\Metanit\DoReflection\Cars\obj\Release\netcoreapp2.1\Cars.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit\DoReflection\Cars\obj\Release\netcoreapp2.1\Cars.AssemblyInfo.cs
+D:\EDU_C#\Metanit\DoReflection\Cars\obj\Release\netcoreapp2.1\Cars.dll
+D:\EDU_C#\Metanit\DoReflection\Cars\obj\Release\netcoreapp2.1\Cars.pdb

@@ -1,0 +1,11 @@
+D:\EDU_C#\Troelsen\MyTypeViewer\MyTypeViewer\bin\Debug\netcoreapp2.1\MyTypeViewer.deps.json
+D:\EDU_C#\Troelsen\MyTypeViewer\MyTypeViewer\bin\Debug\netcoreapp2.1\MyTypeViewer.runtimeconfig.json
+D:\EDU_C#\Troelsen\MyTypeViewer\MyTypeViewer\bin\Debug\netcoreapp2.1\MyTypeViewer.runtimeconfig.dev.json
+D:\EDU_C#\Troelsen\MyTypeViewer\MyTypeViewer\bin\Debug\netcoreapp2.1\MyTypeViewer.dll
+D:\EDU_C#\Troelsen\MyTypeViewer\MyTypeViewer\bin\Debug\netcoreapp2.1\MyTypeViewer.pdb
+D:\EDU_C#\Troelsen\MyTypeViewer\MyTypeViewer\obj\Debug\netcoreapp2.1\MyTypeViewer.csprojAssemblyReference.cache
+D:\EDU_C#\Troelsen\MyTypeViewer\MyTypeViewer\obj\Debug\netcoreapp2.1\MyTypeViewer.csproj.CoreCompileInputs.cache
+D:\EDU_C#\Troelsen\MyTypeViewer\MyTypeViewer\obj\Debug\netcoreapp2.1\MyTypeViewer.AssemblyInfoInputs.cache
+D:\EDU_C#\Troelsen\MyTypeViewer\MyTypeViewer\obj\Debug\netcoreapp2.1\MyTypeViewer.AssemblyInfo.cs
+D:\EDU_C#\Troelsen\MyTypeViewer\MyTypeViewer\obj\Debug\netcoreapp2.1\MyTypeViewer.dll
+D:\EDU_C#\Troelsen\MyTypeViewer\MyTypeViewer\obj\Debug\netcoreapp2.1\MyTypeViewer.pdb

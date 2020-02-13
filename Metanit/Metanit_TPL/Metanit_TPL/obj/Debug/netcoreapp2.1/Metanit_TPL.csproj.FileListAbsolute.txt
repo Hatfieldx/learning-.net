@@ -1,0 +1,11 @@
+D:\EDU_C#\Metanit_TPL\Metanit_TPL\bin\Debug\netcoreapp2.1\Metanit_TPL.deps.json
+D:\EDU_C#\Metanit_TPL\Metanit_TPL\bin\Debug\netcoreapp2.1\Metanit_TPL.runtimeconfig.json
+D:\EDU_C#\Metanit_TPL\Metanit_TPL\bin\Debug\netcoreapp2.1\Metanit_TPL.runtimeconfig.dev.json
+D:\EDU_C#\Metanit_TPL\Metanit_TPL\bin\Debug\netcoreapp2.1\Metanit_TPL.dll
+D:\EDU_C#\Metanit_TPL\Metanit_TPL\bin\Debug\netcoreapp2.1\Metanit_TPL.pdb
+D:\EDU_C#\Metanit_TPL\Metanit_TPL\obj\Debug\netcoreapp2.1\Metanit_TPL.csprojAssemblyReference.cache
+D:\EDU_C#\Metanit_TPL\Metanit_TPL\obj\Debug\netcoreapp2.1\Metanit_TPL.csproj.CoreCompileInputs.cache
+D:\EDU_C#\Metanit_TPL\Metanit_TPL\obj\Debug\netcoreapp2.1\Metanit_TPL.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit_TPL\Metanit_TPL\obj\Debug\netcoreapp2.1\Metanit_TPL.AssemblyInfo.cs
+D:\EDU_C#\Metanit_TPL\Metanit_TPL\obj\Debug\netcoreapp2.1\Metanit_TPL.dll
+D:\EDU_C#\Metanit_TPL\Metanit_TPL\obj\Debug\netcoreapp2.1\Metanit_TPL.pdb

@@ -1,0 +1,11 @@
+D:\EDU_C#\Metanit\GCollector\GCollector\bin\Debug\netcoreapp2.1\GCollector.deps.json
+D:\EDU_C#\Metanit\GCollector\GCollector\bin\Debug\netcoreapp2.1\GCollector.runtimeconfig.json
+D:\EDU_C#\Metanit\GCollector\GCollector\bin\Debug\netcoreapp2.1\GCollector.runtimeconfig.dev.json
+D:\EDU_C#\Metanit\GCollector\GCollector\bin\Debug\netcoreapp2.1\GCollector.dll
+D:\EDU_C#\Metanit\GCollector\GCollector\bin\Debug\netcoreapp2.1\GCollector.pdb
+D:\EDU_C#\Metanit\GCollector\GCollector\obj\Debug\netcoreapp2.1\GCollector.csprojAssemblyReference.cache
+D:\EDU_C#\Metanit\GCollector\GCollector\obj\Debug\netcoreapp2.1\GCollector.csproj.CoreCompileInputs.cache
+D:\EDU_C#\Metanit\GCollector\GCollector\obj\Debug\netcoreapp2.1\GCollector.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit\GCollector\GCollector\obj\Debug\netcoreapp2.1\GCollector.AssemblyInfo.cs
+D:\EDU_C#\Metanit\GCollector\GCollector\obj\Debug\netcoreapp2.1\GCollector.dll
+D:\EDU_C#\Metanit\GCollector\GCollector\obj\Debug\netcoreapp2.1\GCollector.pdb

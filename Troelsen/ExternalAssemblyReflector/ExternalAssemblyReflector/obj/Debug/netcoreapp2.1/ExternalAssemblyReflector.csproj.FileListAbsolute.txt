@@ -1,0 +1,11 @@
+D:\EDU_C#\Troelsen\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\netcoreapp2.1\ExternalAssemblyReflector.deps.json
+D:\EDU_C#\Troelsen\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\netcoreapp2.1\ExternalAssemblyReflector.runtimeconfig.json
+D:\EDU_C#\Troelsen\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\netcoreapp2.1\ExternalAssemblyReflector.runtimeconfig.dev.json
+D:\EDU_C#\Troelsen\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\netcoreapp2.1\ExternalAssemblyReflector.dll
+D:\EDU_C#\Troelsen\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\netcoreapp2.1\ExternalAssemblyReflector.pdb
+D:\EDU_C#\Troelsen\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\netcoreapp2.1\ExternalAssemblyReflector.csprojAssemblyReference.cache
+D:\EDU_C#\Troelsen\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\netcoreapp2.1\ExternalAssemblyReflector.csproj.CoreCompileInputs.cache
+D:\EDU_C#\Troelsen\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\netcoreapp2.1\ExternalAssemblyReflector.AssemblyInfoInputs.cache
+D:\EDU_C#\Troelsen\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\netcoreapp2.1\ExternalAssemblyReflector.AssemblyInfo.cs
+D:\EDU_C#\Troelsen\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\netcoreapp2.1\ExternalAssemblyReflector.dll
+D:\EDU_C#\Troelsen\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\netcoreapp2.1\ExternalAssemblyReflector.pdb

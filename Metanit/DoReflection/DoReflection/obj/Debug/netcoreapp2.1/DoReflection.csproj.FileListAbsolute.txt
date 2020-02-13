@@ -1,0 +1,14 @@
+D:\EDU_C#\Metanit\DoReflection\DoReflection\bin\Debug\netcoreapp2.1\DoReflection.deps.json
+D:\EDU_C#\Metanit\DoReflection\DoReflection\bin\Debug\netcoreapp2.1\DoReflection.runtimeconfig.json
+D:\EDU_C#\Metanit\DoReflection\DoReflection\bin\Debug\netcoreapp2.1\DoReflection.runtimeconfig.dev.json
+D:\EDU_C#\Metanit\DoReflection\DoReflection\bin\Debug\netcoreapp2.1\DoReflection.dll
+D:\EDU_C#\Metanit\DoReflection\DoReflection\bin\Debug\netcoreapp2.1\DoReflection.pdb
+D:\EDU_C#\Metanit\DoReflection\DoReflection\bin\Debug\netcoreapp2.1\Cars.dll
+D:\EDU_C#\Metanit\DoReflection\DoReflection\bin\Debug\netcoreapp2.1\Cars.pdb
+D:\EDU_C#\Metanit\DoReflection\DoReflection\obj\Debug\netcoreapp2.1\DoReflection.csprojAssemblyReference.cache
+D:\EDU_C#\Metanit\DoReflection\DoReflection\obj\Debug\netcoreapp2.1\DoReflection.csproj.CoreCompileInputs.cache
+D:\EDU_C#\Metanit\DoReflection\DoReflection\obj\Debug\netcoreapp2.1\DoReflection.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit\DoReflection\DoReflection\obj\Debug\netcoreapp2.1\DoReflection.AssemblyInfo.cs
+D:\EDU_C#\Metanit\DoReflection\DoReflection\obj\Debug\netcoreapp2.1\DoReflection.csproj.CopyComplete
+D:\EDU_C#\Metanit\DoReflection\DoReflection\obj\Debug\netcoreapp2.1\DoReflection.dll
+D:\EDU_C#\Metanit\DoReflection\DoReflection\obj\Debug\netcoreapp2.1\DoReflection.pdb

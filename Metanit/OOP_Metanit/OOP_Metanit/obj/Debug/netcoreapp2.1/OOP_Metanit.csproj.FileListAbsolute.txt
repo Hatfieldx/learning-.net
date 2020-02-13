@@ -1,0 +1,14 @@
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\obj\Debug\netcoreapp2.1\OOP_Metanit.csproj.CoreCompileInputs.cache
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\obj\Debug\netcoreapp2.1\OOP_Metanit.AssemblyInfoInputs.cache
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\obj\Debug\netcoreapp2.1\OOP_Metanit.AssemblyInfo.cs
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\obj\Debug\netcoreapp2.1\OOP_Metanit.csprojAssemblyReference.cache
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\bin\Debug\netcoreapp2.1\OOP_Metanit.deps.json
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\bin\Debug\netcoreapp2.1\OOP_Metanit.runtimeconfig.json
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\bin\Debug\netcoreapp2.1\OOP_Metanit.runtimeconfig.dev.json
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\bin\Debug\netcoreapp2.1\OOP_Metanit.dll
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\bin\Debug\netcoreapp2.1\OOP_Metanit.pdb
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\bin\Debug\netcoreapp2.1\TestLibrary.dll
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\bin\Debug\netcoreapp2.1\TestLibrary.pdb
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\obj\Debug\netcoreapp2.1\OOP_Metanit.csproj.CopyComplete
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\obj\Debug\netcoreapp2.1\OOP_Metanit.dll
+D:\EDU_C#\OOP_Metanit\OOP_Metanit\obj\Debug\netcoreapp2.1\OOP_Metanit.pdb

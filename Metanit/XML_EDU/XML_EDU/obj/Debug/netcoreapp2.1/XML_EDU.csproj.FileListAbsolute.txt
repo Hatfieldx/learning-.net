@@ -1,0 +1,13 @@
+D:\EDU_C#\Metanit\XML_EDU\XML_EDU\bin\Debug\netcoreapp2.1\XML_EDU.deps.json
+D:\EDU_C#\Metanit\XML_EDU\XML_EDU\bin\Debug\netcoreapp2.1\XML_EDU.runtimeconfig.json
+D:\EDU_C#\Metanit\XML_EDU\XML_EDU\bin\Debug\netcoreapp2.1\XML_EDU.runtimeconfig.dev.json
+D:\EDU_C#\Metanit\XML_EDU\XML_EDU\bin\Debug\netcoreapp2.1\XML_EDU.dll
+D:\EDU_C#\Metanit\XML_EDU\XML_EDU\bin\Debug\netcoreapp2.1\XML_EDU.pdb
+D:\EDU_C#\Metanit\XML_EDU\XML_EDU\bin\Debug\netcoreapp2.1\Cars.dll
+D:\EDU_C#\Metanit\XML_EDU\XML_EDU\bin\Debug\netcoreapp2.1\Cars.pdb
+D:\EDU_C#\Metanit\XML_EDU\XML_EDU\obj\Debug\netcoreapp2.1\XML_EDU.csprojAssemblyReference.cache
+D:\EDU_C#\Metanit\XML_EDU\XML_EDU\obj\Debug\netcoreapp2.1\XML_EDU.AssemblyInfoInputs.cache
+D:\EDU_C#\Metanit\XML_EDU\XML_EDU\obj\Debug\netcoreapp2.1\XML_EDU.AssemblyInfo.cs
+D:\EDU_C#\Metanit\XML_EDU\XML_EDU\obj\Debug\netcoreapp2.1\XML_EDU.csproj.CopyComplete
+D:\EDU_C#\Metanit\XML_EDU\XML_EDU\obj\Debug\netcoreapp2.1\XML_EDU.dll
+D:\EDU_C#\Metanit\XML_EDU\XML_EDU\obj\Debug\netcoreapp2.1\XML_EDU.pdb

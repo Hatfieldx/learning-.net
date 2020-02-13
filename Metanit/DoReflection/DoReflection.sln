@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoReflection", "DoReflection\DoReflection.csproj", "{D30A55C8-EDDD-43C3-991F-2EE3E966AEAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cars", "Cars\Cars.csproj", "{CA69A1F3-692F-4549-9FCF-8B76FC08FC62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D30A55C8-EDDD-43C3-991F-2EE3E966AEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30A55C8-EDDD-43C3-991F-2EE3E966AEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30A55C8-EDDD-43C3-991F-2EE3E966AEAF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30A55C8-EDDD-43C3-991F-2EE3E966AEAF}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{CA69A1F3-692F-4549-9FCF-8B76FC08FC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA69A1F3-692F-4549-9FCF-8B76FC08FC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA69A1F3-692F-4549-9FCF-8B76FC08FC62}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA69A1F3-692F-4549-9FCF-8B76FC08FC62}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F6DE01-7FD7-4275-A2DC-02EACC0614D2}
+	EndGlobalSection
+EndGlobal
