@@ -1,0 +1,11 @@
+D:\repo\learning-.net\Metanit\Processes&AppDomains\ProcessesAppDomains\ProcessesAppDomains\bin\Debug\netcoreapp3.1\ProcessesAppDomains.exe
+D:\repo\learning-.net\Metanit\Processes&AppDomains\ProcessesAppDomains\ProcessesAppDomains\bin\Debug\netcoreapp3.1\ProcessesAppDomains.deps.json
+D:\repo\learning-.net\Metanit\Processes&AppDomains\ProcessesAppDomains\ProcessesAppDomains\bin\Debug\netcoreapp3.1\ProcessesAppDomains.runtimeconfig.json
+D:\repo\learning-.net\Metanit\Processes&AppDomains\ProcessesAppDomains\ProcessesAppDomains\bin\Debug\netcoreapp3.1\ProcessesAppDomains.runtimeconfig.dev.json
+D:\repo\learning-.net\Metanit\Processes&AppDomains\ProcessesAppDomains\ProcessesAppDomains\bin\Debug\netcoreapp3.1\ProcessesAppDomains.dll
+D:\repo\learning-.net\Metanit\Processes&AppDomains\ProcessesAppDomains\ProcessesAppDomains\bin\Debug\netcoreapp3.1\ProcessesAppDomains.pdb
+D:\repo\learning-.net\Metanit\Processes&AppDomains\ProcessesAppDomains\ProcessesAppDomains\obj\Debug\netcoreapp3.1\ProcessesAppDomains.csprojAssemblyReference.cache
+D:\repo\learning-.net\Metanit\Processes&AppDomains\ProcessesAppDomains\ProcessesAppDomains\obj\Debug\netcoreapp3.1\ProcessesAppDomains.AssemblyInfoInputs.cache
+D:\repo\learning-.net\Metanit\Processes&AppDomains\ProcessesAppDomains\ProcessesAppDomains\obj\Debug\netcoreapp3.1\ProcessesAppDomains.AssemblyInfo.cs
+D:\repo\learning-.net\Metanit\Processes&AppDomains\ProcessesAppDomains\ProcessesAppDomains\obj\Debug\netcoreapp3.1\ProcessesAppDomains.dll
+D:\repo\learning-.net\Metanit\Processes&AppDomains\ProcessesAppDomains\ProcessesAppDomains\obj\Debug\netcoreapp3.1\ProcessesAppDomains.pdb
