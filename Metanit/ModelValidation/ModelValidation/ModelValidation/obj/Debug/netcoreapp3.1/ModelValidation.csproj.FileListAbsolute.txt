@@ -1,0 +1,11 @@
+D:\repo\learning-.net\Metanit\ModelValidation\ModelValidation\ModelValidation\bin\Debug\netcoreapp3.1\ModelValidation.exe
+D:\repo\learning-.net\Metanit\ModelValidation\ModelValidation\ModelValidation\bin\Debug\netcoreapp3.1\ModelValidation.deps.json
+D:\repo\learning-.net\Metanit\ModelValidation\ModelValidation\ModelValidation\bin\Debug\netcoreapp3.1\ModelValidation.runtimeconfig.json
+D:\repo\learning-.net\Metanit\ModelValidation\ModelValidation\ModelValidation\bin\Debug\netcoreapp3.1\ModelValidation.runtimeconfig.dev.json
+D:\repo\learning-.net\Metanit\ModelValidation\ModelValidation\ModelValidation\bin\Debug\netcoreapp3.1\ModelValidation.dll
+D:\repo\learning-.net\Metanit\ModelValidation\ModelValidation\ModelValidation\bin\Debug\netcoreapp3.1\ModelValidation.pdb
+D:\repo\learning-.net\Metanit\ModelValidation\ModelValidation\ModelValidation\obj\Debug\netcoreapp3.1\ModelValidation.csprojAssemblyReference.cache
+D:\repo\learning-.net\Metanit\ModelValidation\ModelValidation\ModelValidation\obj\Debug\netcoreapp3.1\ModelValidation.AssemblyInfoInputs.cache
+D:\repo\learning-.net\Metanit\ModelValidation\ModelValidation\ModelValidation\obj\Debug\netcoreapp3.1\ModelValidation.AssemblyInfo.cs
+D:\repo\learning-.net\Metanit\ModelValidation\ModelValidation\ModelValidation\obj\Debug\netcoreapp3.1\ModelValidation.dll
+D:\repo\learning-.net\Metanit\ModelValidation\ModelValidation\ModelValidation\obj\Debug\netcoreapp3.1\ModelValidation.pdb
