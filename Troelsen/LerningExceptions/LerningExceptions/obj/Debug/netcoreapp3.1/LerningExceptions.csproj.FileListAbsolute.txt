@@ -1,0 +1,11 @@
+D:\repo\learning-.net\Troelsen\LerningExceptions\LerningExceptions\obj\Debug\netcoreapp3.1\LerningExceptions.csprojAssemblyReference.cache
+D:\repo\learning-.net\Troelsen\LerningExceptions\LerningExceptions\obj\Debug\netcoreapp3.1\LerningExceptions.AssemblyInfoInputs.cache
+D:\repo\learning-.net\Troelsen\LerningExceptions\LerningExceptions\obj\Debug\netcoreapp3.1\LerningExceptions.AssemblyInfo.cs
+D:\repo\learning-.net\Troelsen\LerningExceptions\LerningExceptions\bin\Debug\netcoreapp3.1\LerningExceptions.exe
+D:\repo\learning-.net\Troelsen\LerningExceptions\LerningExceptions\bin\Debug\netcoreapp3.1\LerningExceptions.deps.json
+D:\repo\learning-.net\Troelsen\LerningExceptions\LerningExceptions\bin\Debug\netcoreapp3.1\LerningExceptions.runtimeconfig.json
+D:\repo\learning-.net\Troelsen\LerningExceptions\LerningExceptions\bin\Debug\netcoreapp3.1\LerningExceptions.runtimeconfig.dev.json
+D:\repo\learning-.net\Troelsen\LerningExceptions\LerningExceptions\bin\Debug\netcoreapp3.1\LerningExceptions.dll
+D:\repo\learning-.net\Troelsen\LerningExceptions\LerningExceptions\bin\Debug\netcoreapp3.1\LerningExceptions.pdb
+D:\repo\learning-.net\Troelsen\LerningExceptions\LerningExceptions\obj\Debug\netcoreapp3.1\LerningExceptions.dll
+D:\repo\learning-.net\Troelsen\LerningExceptions\LerningExceptions\obj\Debug\netcoreapp3.1\LerningExceptions.pdb
