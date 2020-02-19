@@ -1,0 +1,11 @@
+D:\repo\learning-.net\Patterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+D:\repo\learning-.net\Patterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+D:\repo\learning-.net\Patterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+D:\repo\learning-.net\Patterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+D:\repo\learning-.net\Patterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+D:\repo\learning-.net\Patterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+D:\repo\learning-.net\Patterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+D:\repo\learning-.net\Patterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+D:\repo\learning-.net\Patterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+D:\repo\learning-.net\Patterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+D:\repo\learning-.net\Patterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
