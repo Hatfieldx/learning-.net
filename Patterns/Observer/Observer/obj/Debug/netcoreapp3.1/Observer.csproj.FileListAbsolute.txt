@@ -1,0 +1,11 @@
+D:\repo\learning-.net\Patterns\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.csprojAssemblyReference.cache
+D:\repo\learning-.net\Patterns\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+D:\repo\learning-.net\Patterns\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+D:\repo\learning-.net\Patterns\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.exe
+D:\repo\learning-.net\Patterns\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.deps.json
+D:\repo\learning-.net\Patterns\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+D:\repo\learning-.net\Patterns\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+D:\repo\learning-.net\Patterns\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.dll
+D:\repo\learning-.net\Patterns\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.pdb
+D:\repo\learning-.net\Patterns\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.dll
+D:\repo\learning-.net\Patterns\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.pdb
