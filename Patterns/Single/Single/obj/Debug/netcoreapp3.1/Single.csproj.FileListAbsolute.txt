@@ -1,0 +1,10 @@
+D:\repo\learning-.net\Patterns\Single\Single\bin\Debug\netcoreapp3.1\Single.exe
+D:\repo\learning-.net\Patterns\Single\Single\bin\Debug\netcoreapp3.1\Single.deps.json
+D:\repo\learning-.net\Patterns\Single\Single\bin\Debug\netcoreapp3.1\Single.runtimeconfig.json
+D:\repo\learning-.net\Patterns\Single\Single\bin\Debug\netcoreapp3.1\Single.runtimeconfig.dev.json
+D:\repo\learning-.net\Patterns\Single\Single\bin\Debug\netcoreapp3.1\Single.dll
+D:\repo\learning-.net\Patterns\Single\Single\bin\Debug\netcoreapp3.1\Single.pdb
+D:\repo\learning-.net\Patterns\Single\Single\obj\Debug\netcoreapp3.1\Single.AssemblyInfoInputs.cache
+D:\repo\learning-.net\Patterns\Single\Single\obj\Debug\netcoreapp3.1\Single.AssemblyInfo.cs
+D:\repo\learning-.net\Patterns\Single\Single\obj\Debug\netcoreapp3.1\Single.dll
+D:\repo\learning-.net\Patterns\Single\Single\obj\Debug\netcoreapp3.1\Single.pdb
