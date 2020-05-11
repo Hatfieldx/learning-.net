@@ -1,0 +1,11 @@
+D:\repo\learning-.net\Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.exe
+D:\repo\learning-.net\Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.deps.json
+D:\repo\learning-.net\Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.json
+D:\repo\learning-.net\Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.dev.json
+D:\repo\learning-.net\Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.dll
+D:\repo\learning-.net\Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.pdb
+D:\repo\learning-.net\Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.csprojAssemblyReference.cache
+D:\repo\learning-.net\Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+D:\repo\learning-.net\Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+D:\repo\learning-.net\Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.dll
+D:\repo\learning-.net\Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.pdb
